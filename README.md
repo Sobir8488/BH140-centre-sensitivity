@@ -1,3 +1,4 @@
+DOI: 10.5281/zenodo.21869507
 # BH 140 Multi-Survey Validation Package v1.0
 
 This repository is a DOI-ready release package supporting a multi-survey validation analysis of the Galactic globular-cluster system BH 140. It contains reproduction scripts, derived data products, matched-control bootstrap products, HST/MGCS artificial-star completeness products, HST mass-function diagnostic products, WINERED source-level crossmatch products, and manuscript-ready summary tables and figures.
