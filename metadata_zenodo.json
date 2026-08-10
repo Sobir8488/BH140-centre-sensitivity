@@ -1,0 +1,27 @@
+{
+  "title": "BH 140 Multi-Survey Validation Package: Gaia DR3 Membership, HST/MGCS Photometry, WINERED Spectroscopy, and Candidate Outer Tidal Structure",
+  "upload_type": "dataset",
+  "description": "Reproduction scripts and processed validation products for a multi-survey analysis of BH 140, including Gaia DR3 anchored membership, matched-control outer-structure validation, HST/MGCS artificial-star completeness and mass-function diagnostics, WINERED source-level crossmatch products, and phase-space Monte Carlo summaries. The package supports a control-tested candidate outer tidal-structure interpretation and does not claim a confirmed tidal tail or a radial mass-segregation detection.",
+  "creators": [
+    {
+      "name": "Turaev, Qudratillo"
+    }
+  ],
+  "version": "1.0.0",
+  "language": "eng",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "BH 140",
+    "Gaia DR3",
+    "HST",
+    "MGCS",
+    "WINERED",
+    "globular clusters",
+    "tidal structure",
+    "mass function",
+    "artificial-star tests",
+    "proper motions"
+  ],
+  "related_identifiers": [],
+  "notes": "Verify the creator list, affiliations, and manuscript DOI before publishing the Zenodo record."
+}
