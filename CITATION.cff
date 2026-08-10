@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite the associated Zenodo DOI."
+title: "BH 140 Multi-Survey Validation Package: Gaia DR3 Membership, HST/MGCS Photometry, WINERED Spectroscopy, and Candidate Outer Tidal Structure"
+version: "1.0.0"
+date-released: "2026-06-13"
+authors:
+  - family-names: "Turaev"
+    given-names: "Qudratillo"
+license: "CC-BY-4.0"
+keywords:
+  - BH 140
+  - Gaia DR3
+  - HST
+  - MGCS
+  - WINERED
+  - globular clusters
+  - tidal structure
+  - mass function
+  - artificial-star tests
+  - proper motions
