@@ -4,7 +4,8 @@
   "description": "Reproduction scripts and processed validation products for a multi-survey analysis of BH 140, including Gaia DR3 anchored membership, matched-control outer-structure validation, HST/MGCS artificial-star completeness and mass-function diagnostics, WINERED source-level crossmatch products, and phase-space Monte Carlo summaries. The package supports a control-tested candidate outer tidal-structure interpretation and does not claim a confirmed tidal tail or a radial mass-segregation detection.",
   "creators": [
     {
-      "name": "Turaev, Qudratillo"
+      "name": "Turaev, Sobir"
+      "mane": ""Yuldoshev, Qudratillo
     }
   ],
   "version": "1.0.0",
